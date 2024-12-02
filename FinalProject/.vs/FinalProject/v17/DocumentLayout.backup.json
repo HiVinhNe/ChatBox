@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Socket\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7105B1-F827-4407-BA18-BF321D9A8D1D}|FinalProject\\FinalProject.csproj|e:\\socket\\finalproject\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7105B1-F827-4407-BA18-BF321D9A8D1D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD59B4C-0A3D-49EC-AE05-4B6D91BD1161}|Temp\\FromServer\\FromServer.csproj|e:\\socket\\finalproject\\temp\\fromserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD59B4C-0A3D-49EC-AE05-4B6D91BD1161}|Temp\\FromServer\\FromServer.csproj|solutionrelative:temp\\fromserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{928AC451-09C6-45F3-AECB-37A70393019C}|Temp\\FromClient\\FromClient.csproj|e:\\socket\\finalproject\\temp\\fromclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{928AC451-09C6-45F3-AECB-37A70393019C}|Temp\\FromClient\\FromClient.csproj|solutionrelative:temp\\fromclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7105B1-F827-4407-BA18-BF321D9A8D1D}|FinalProject\\FinalProject.csproj|e:\\socket\\finalproject\\finalproject\\fromclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC7105B1-F827-4407-BA18-BF321D9A8D1D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\fromclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC7105B1-F827-4407-BA18-BF321D9A8D1D}|FinalProject\\FinalProject.csproj|e:\\socket\\finalproject\\finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC7105B1-F827-4407-BA18-BF321D9A8D1D}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Socket\\FinalProject\\Temp\\FromServer\\Program.cs",
+              "RelativeDocumentMoniker": "Temp\\FromServer\\Program.cs",
+              "ToolTip": "E:\\Socket\\FinalProject\\Temp\\FromServer\\Program.cs",
+              "RelativeToolTip": "Temp\\FromServer\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAYwDwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T17:57:07.504Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Socket\\FinalProject\\Temp\\FromClient\\Program.cs",
+              "RelativeDocumentMoniker": "Temp\\FromClient\\Program.cs",
+              "ToolTip": "E:\\Socket\\FinalProject\\Temp\\FromClient\\Program.cs",
+              "RelativeToolTip": "Temp\\FromClient\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:00:08.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Socket\\FinalProject\\FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
+              "ToolTip": "E:\\Socket\\FinalProject\\FinalProject\\Form1.cs [Design]",
+              "RelativeToolTip": "FinalProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:43:04.359Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Socket\\FinalProject\\FinalProject\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Form1.cs",
+              "ToolTip": "E:\\Socket\\FinalProject\\FinalProject\\Form1.cs",
+              "RelativeToolTip": "FinalProject\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:44:23.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FromClient.cs",
+              "DocumentMoniker": "E:\\Socket\\FinalProject\\FinalProject\\FromClient.cs",
+              "RelativeDocumentMoniker": "FinalProject\\FromClient.cs",
+              "ToolTip": "E:\\Socket\\FinalProject\\FinalProject\\FromClient.cs",
+              "RelativeToolTip": "FinalProject\\FromClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T06:15:44.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

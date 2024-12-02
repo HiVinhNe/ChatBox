@@ -1,0 +1,7 @@
+E:\Socket\FinalProject\Temp\FromServer\bin\Debug\FromServer.exe.config
+E:\Socket\FinalProject\Temp\FromServer\bin\Debug\FromServer.exe
+E:\Socket\FinalProject\Temp\FromServer\bin\Debug\FromServer.pdb
+E:\Socket\FinalProject\Temp\FromServer\obj\Debug\FromServer.csproj.AssemblyReference.cache
+E:\Socket\FinalProject\Temp\FromServer\obj\Debug\FromServer.csproj.CoreCompileInputs.cache
+E:\Socket\FinalProject\Temp\FromServer\obj\Debug\FromServer.exe
+E:\Socket\FinalProject\Temp\FromServer\obj\Debug\FromServer.pdb
